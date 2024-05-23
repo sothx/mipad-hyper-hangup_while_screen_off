@@ -3,7 +3,6 @@ patch_device_features() {
   DEVICE_CODE="$(getprop ro.product.device)"
   SYSTEM_DEVICE_FEATURES_PATH=/system/product/etc/device_features/${DEVICE_CODE}.xml
   MODULE_DEVICE_FEATURES_PATH="$1"/system/product/etc/device_features/${DEVICE_CODE}.xml
-  # CODE_SNIPPET="$MODDIR"/common/code-snippet.xml
 
   # 移除旧版补丁文件
   rm -rf "$MODULE_DEVICE_FEATURES_PATH"
