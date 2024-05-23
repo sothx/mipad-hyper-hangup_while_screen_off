@@ -1,6 +1,6 @@
 id=xiaomi-pad-hyper-hangup-while-screen-off
-name=HyperOS For Pad 息屏挂机(听剧)补丁
+name=HyperOS For Pad 熄屏挂机(熄屏听剧)补丁
 version=1.00.00
 versionCode=100000
 author=做梦书
-description=用于 Hyper OS For Pad 下修补系统有关息屏挂机/息屏听剧的相关功能。(反馈模块问题可前往酷安私信 @做梦书 或者Github:https://github.com/sothx/xiaomi-pad-hyper-content-extension)
+description=本Magisk模块用于补全Hyper OS For Pad 有关 [熄屏挂机] 和 [熄屏听剧] 的功能。(反馈模块问题可前往酷安私信 @做梦书 或者Github:https://github.com/sothx/mipad-hyper-hangup_while_screen_off)
