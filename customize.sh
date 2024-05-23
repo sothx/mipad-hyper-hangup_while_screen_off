@@ -27,4 +27,4 @@ ui_print "- 正在为你修补熄屏挂机/熄屏听剧，请稍等~"
 patch_device_features "$MODPATH"
 
 
-ui_print "- 好诶，《HyperOS For Pad 熄屏挂机(听剧)补丁》安装/更新完成，重启系统后生效！"
+ui_print "- 好诶，《HyperOS For Pad 熄屏挂机及熄屏听剧补全补丁》安装/更新完成，重启系统后生效！"
